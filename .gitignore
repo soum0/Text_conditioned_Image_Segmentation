@@ -1,0 +1,21 @@
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Large ML files
+models/*.pth
+models/*.bin
+*.pt
+
+# Datasets (too big)
+data/
+*.zip
+
+# Mac/Windows junk
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+env/
