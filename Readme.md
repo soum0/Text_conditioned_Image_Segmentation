@@ -15,7 +15,6 @@
 - [Installation & Setup](#installation--setup)
 - [Usage / How to Run](#usage--how-to-run)
 - [Results & Key Metrics](#results--key-metrics)
-- [Visualizations & Screenshots](#visualizations--screenshots)
 - [Challenges Faced & How I Solved Them](#challenges-faced--how-i-solved-them)
 - [Key Insights & Learnings](#key-insights--learnings)
 - [Future Roadmap / Potential Improvements](#future-roadmap--potential-improvements)
